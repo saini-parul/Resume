@@ -10,13 +10,13 @@ img {
     margin: 0 auto;
     border-radius: 50%;
     width: 20%;
-    border: 2px solid yellowgreen;
+    border: 2px solid rgb(28, 36, 13);
     margin-top: 1%;
 }
 
 .banner {
     height: 45%;
-    background-image: linear-gradient(45deg, #c0392b, #8e44ad);
+   background-image: linear-gradient(45deg, #695250, #c2bcc5);
     /* border: 2px solid skyblue; */
 }
 
@@ -28,7 +28,7 @@ img {
     text-align: center;
     width: 25%;
     height: 25%;
-    background-color: yellowgreen;
+     background-color: rgb(44, 48, 35);
     color: white;
     margin-bottom: 1%;
     font-weight: bold;
